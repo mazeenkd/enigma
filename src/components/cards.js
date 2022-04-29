@@ -4,7 +4,7 @@ const Cards = () => {
     return ( 
         <div className="cards">
             <div className="card">
-                +10                
+               +10                
             </div>
             <div className="card">
                 +10
